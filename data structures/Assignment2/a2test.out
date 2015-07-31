@@ -1,0 +1,545 @@
+3 SortedInt2 objects (s1 s2 s3) have been created.
+Each is now empty.
+Enter choice: e read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 is empty
+Enter choice: s read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   Size of s2 is 0
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: (empty)
+Enter choice: c read.
+   s3 has been set to the combination of s1 and s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: (empty)
+Enter choice: E read.
+   s1 is identical to s2
+   s1 is identical to s3
+   s2 is identical to s3
+Enter choice: f read.
+Enter integer value 1 read.
+   The # of times 1 occurs in s1 is 0
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 not found in s1
+Enter choice: K read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 1 read.
+   0 copies of 1 has been deleted from s2
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been reset and is now empty
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 11 read.
+   11 has been inserted into s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 11  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 22 read.
+   22 has been inserted into s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 22  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 11 read.
+   11 has been inserted into s3
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 11  
+Enter choice: a read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Average for s1 is 11
+Enter choice: e read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 is not empty
+Enter choice: E read.
+   s1 is not identical to s2
+   s1 is identical to s3
+   s2 is not identical to s3
+Enter choice: f read.
+Enter integer value 33 read.
+   The # of times 33 occurs in s1 is 0
+Enter choice: f read.
+Enter integer value 11 read.
+   The # of times 11 occurs in s1 is 1
+Enter choice: m read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Lowest value in s1 is 11
+Enter choice: M read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   Highest value in s2 is 22
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   Median of s3 is 11
+Enter choice: s read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Size of s1 is 1
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 11  22  
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 11  11  22  
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 11  11  11  11  22  22  
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 not found in s1
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 11 read.
+   11 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 11  11  11  22  22  
+Enter choice: K read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 2 read.
+   0 copies of 2 has been deleted from s2
+Enter choice: K read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 22 read.
+   1 copies of 22 has been deleted from s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: (empty)
+Enter choice: x read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   1 copies of 11 has been deleted from s3
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: (empty)
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 33 read.
+   33 has been inserted into s3
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 33  
+Enter choice: X read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   1 copies of 33 has been deleted from s3
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: (empty)
+Enter choice: x read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   3 copies of 11 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 22  22  
+Enter choice: X read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   2 copies of 22 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: (empty)
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 2 read.
+   2 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 3 read.
+   3 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 4 read.
+   4 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   5 has been inserted into s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  2  3  4  5  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 7 read.
+   7 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 5 read.
+   5 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 2 read.
+   2 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 0 read.
+   0 has been inserted into s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  2  5  7  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 5 read.
+   5 has been inserted into s3
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 5 read.
+   5 has been inserted into s3
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 5 read.
+   5 has been inserted into s3
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 5 read.
+   5 has been inserted into s3
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+Enter integer value 5 read.
+   5 has been inserted into s3
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 5  5  5  5  5  
+Enter choice: a read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Average for s1 is 3
+Enter choice: E read.
+   s1 is not identical to s2
+   s1 is not identical to s3
+   s2 is not identical to s3
+Enter choice: f read.
+Enter integer value 1 read.
+   The # of times 1 occurs in s1 is 1
+Enter choice: f read.
+Enter integer value 3 read.
+   The # of times 3 occurs in s1 is 1
+Enter choice: f read.
+Enter integer value 5 read.
+   The # of times 5 occurs in s1 is 1
+Enter choice: f read.
+Enter integer value 7 read.
+   The # of times 7 occurs in s1 is 0
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 2  3  4  5  
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   5 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 2  3  4  
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 3 read.
+   3 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 2  4  
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   Median of s2 is 3.5
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 2  4  5  5  5  5  5  
+Enter choice: f read.
+Enter integer value 5 read.
+   The # of times 5 occurs in s1 is 5
+Enter choice: s read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Size of s1 is 7
+Enter choice: m read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Lowest value in s1 is 2
+Enter choice: M read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Highest value in s1 is 5
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Median of s1 is 5
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 2 read.
+   2 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 2 read.
+   2 has been inserted into s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 2  2  2  4  5  5  5  5  5  
+Enter choice: x read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   3 copies of 2 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 4  5  5  5  5  5  
+Enter choice: X read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   5 copies of 5 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 4  
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  2  4  5  7  
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  2  4  5  5  5  5  5  5  7  
+Enter choice: K read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   6 copies of 5 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  2  4  7  
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 has been reset and is now empty
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  2  5  7  
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  2  5  7  
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 5  5  5  5  5  
+Enter choice: E read.
+   s1 is identical to s2
+   s1 is not identical to s3
+   s2 is not identical to s3
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been reset and is now empty
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been reset and is now empty
+Enter choice: E read.
+   s1 is not identical to s2
+   s1 is not identical to s3
+   s2 is identical to s3
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 has been reset and is now empty
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 7 read.
+   7 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 9 read.
+   9 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   5 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 3 read.
+   3 has been inserted into s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  3  5  7  9  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 4 read.
+   4 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 8 read.
+   8 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 0 read.
+   0 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 2 read.
+   2 has been inserted into s2
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 6 read.
+   6 has been inserted into s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  2  4  6  8  
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  3  5  7  9  
+Enter choice: a read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Average for s1 is 5
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Median of s1 is 5
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  1  2  3  4  5  6  7  8  9  
+Enter choice: a read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Average for s1 is 4.5
+Enter choice: e read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 is not empty
+Enter choice: m read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Lowest value in s1 is 0
+Enter choice: M read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Highest value in s1 is 9
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Median of s1 is 4.5
+Enter choice: s read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Size of s1 is 10
+Enter choice: x read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   1 copies of 0 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  2  3  4  5  6  7  8  9  
+Enter choice: X read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   1 copies of 9 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  2  3  4  5  6  7  8  
+Enter choice: r read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1 has been reset and is now empty
+Enter choice: A read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2 has been added to s1 
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  2  4  6  8  
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   5 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 5 read.
+   5 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 8 read.
+   8 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 1 read.
+   1 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 9 read.
+   9 has been inserted into s1
+Enter choice: i read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+Enter integer value 9 read.
+   9 has been inserted into s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 0  1  1  2  4  5  5  6  8  8  9  9  
+Enter choice: x read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   1 copies of 0 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  1  2  4  5  5  6  8  8  9  9  
+Enter choice: X read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   2 copies of 9 has been deleted from s1
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  1  2  4  5  5  6  8  8  
+Enter choice: a read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Average for s1 is 4.44444
+Enter choice: n read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   Median of s1 is 5
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  2  4  6  8  
+Enter choice: c read.
+   s3 has been set to the combination of s1 and s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 0  1  1  2  2  4  4  5  5  6  6  8  8  8  
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 2 read.
+   2 has been deleted from s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  4  6  8  
+Enter choice: k read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+Enter integer value 6 read.
+   6 has been deleted from s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 2 read.
+   s2: 0  4  8  
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 1 read.
+   s1: 1  1  2  4  5  5  6  8  8  
+Enter choice: c read.
+   s3 has been set to the combination of s1 and s2
+Enter choice: p read.
+Enter object # (1 = s1, 2 = s2, 3 = s3) 3 read.
+   s3: 0  1  1  2  4  4  5  5  6  8  8  8  
+Enter choice: q read.
+Quit option selected...bye
+Press Enter or Return when ready...

@@ -1,0 +1,12 @@
+a3a: sequence.o assign03Auto.o
+	g++ sequence.o assign03Auto.o -o a3a
+sequence.o: sequence.cpp sequence.h
+	g++ -Wall -ansi -pedantic -c sequence.cpp
+assign03Auto.o: assign03Auto.cpp sequence.cpp sequence.h
+	g++ -Wall -ansi -pedantic -c assign03Auto.cpp
+
+clean:
+	@rm -rf sequence.o assign03Auto.o
+cleanall:
+	@rm -rf sequence.o assign03Auto.o a3a
+

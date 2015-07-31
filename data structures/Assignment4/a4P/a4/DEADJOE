@@ -1,0 +1,19 @@
+
+*** These modified files were found in JOE when it aborted on Wed Oct 10 09:18:40 2012
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+assert(copies < 1);
+
+*** File '(Unnamed)'
+server
+mc.h
+firstsrvr.c
+firsttry.h
+a3test.out
+Makefile
+Makefile
+Makefile
+Makefile
+Makefile
+a4test.out

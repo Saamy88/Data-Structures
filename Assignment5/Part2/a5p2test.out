@@ -1,0 +1,6 @@
+================================
+passed test on empty List1
+List1 node-count error ... too many (circular list?)
+test_case: 9  3  8  0  2  4  8  3  
+#expected: 6
+returned # is higher (may be infinite)
